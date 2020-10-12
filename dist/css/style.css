@@ -12,7 +12,7 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: #341f97;
+  background-color: #00bfd8;
 }
 
 .welcome_text {
@@ -44,7 +44,7 @@ body {
   border: none;
   border-radius: 100px;
   background-color: #fff;
-  color: #341f97;
+  color: #00bfd8;
   font-size: 22px;
   transition: 0.4s all;
 }
@@ -107,17 +107,17 @@ body {
 .option:hover {
   cursor: pointer;
   /* background-color: rgba(255, 255, 255, 0.1); */
-  border: 2px solid #341f97;
-  color: #341f97;
+  border: 2px solid#00bfd8;
+  color:#00bfd8;
 }
 .option.active {
-  background-color: #341f97;
+  background-color:#00bfd8;
   color: #fff;
 }
 .btn-next {
   border: none;
   padding: 15px 35px;
-  background-color: #341f97;
+  background-color:#00bfd8;
   color: #fff;
   border-radius: 27px;
   transition: 0.4s all;
@@ -126,7 +126,7 @@ body {
 .btn-next:hover {
   cursor: pointer;
   background-color: #fff;
-  color: #341f97;
+  color:#00bfd8;
   box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.1);
 }
 
