@@ -35,7 +35,7 @@ function submitForm(e) {
       sessionStorage.setItem("points", points);
     }
     else {
-      points = "Get a Covid Test ASAP nigga!!!";
+      points = "Get a Covid Test ASAP";
       sessionStorage.setItem("points", points);
     }
     console.log(points);
